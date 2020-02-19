@@ -1,0 +1,12 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="baf52ceb-df78-428d-a728-54a45327b30a" name="ITCPrasanna">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="COPY_URL_GIST" value="true" />
+    <option name="CONNECTION_TIMEOUT" value="50000" />
+    <option name="CLONE_GIT_USING_SSH" value="true" />
+  </component>
+</application>
